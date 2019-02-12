@@ -1,0 +1,30 @@
+0
+ Nombre: GeForce GT 520M 
+ --Driver de CUDA: 9.1
+ --Version Runtime: 8.0
+ --major y minior : 2,1
+ --pciBusID: 1
+ --pciDeviceID : 0
+ --tccDriver : 0
+ Frecuencia de reloj: 1480000
+ Numero de Multiprocesadores: 1 
+ Capacidad Bus de Memoria: 64 bits
+ Frecuencia de memoria: 800000
+ dimension de warp: 32
+ registros por bloque 32768
+ memoria global total: 1073741824
+ memoria compartida por bloque: 49152
+ pitch: 2147483647
+ max hilos por bloque 1024
+ max dimension de bloque: 00AFFC5C
+ max dimension de grid: 00AFFC68
+ total ConstMem: 65536
+ alineamiento de textura: 512
+ deviceoverlap : 1
+ multiProcessorCount : 1
+ kernelExecTimeoutEnabled : 1
+ integrated : 0
+ canMapHostMemory : 1
+ computeMode : 0
+ concurrentKernels : 1
+ ECCEnabled: 0
